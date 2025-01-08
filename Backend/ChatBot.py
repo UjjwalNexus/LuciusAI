@@ -41,4 +41,4 @@ def RealtimeInformation():
 
     data= f"Please use the real-time information if needed,\n"
     data+= f"Day:{day}\nDate:{date}\nMonth:{month}\nYear:{year}\n"
-    data+=f"Time:{hour}\n
+    data+=f"Time:{hour}\nMinute:{minute}\nSecond:{second}\n"
